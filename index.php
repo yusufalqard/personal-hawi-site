@@ -1,5 +1,6 @@
 <?php
-
+    $title = "Index";
+    include 'include/header.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">

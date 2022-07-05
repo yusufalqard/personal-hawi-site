@@ -2,5 +2,6 @@ carousel-item{
     height:500px;
 }
 .label-carousel, h5{
-    color:yellow;
+    color:rgb(199, 178, 178);
+    background-color: rgb(75, 69, 69);
 }
